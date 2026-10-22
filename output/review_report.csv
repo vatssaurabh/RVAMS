@@ -1,0 +1,2 @@
+﻿Row_No,Column_Session,Roll_No,Student_Name,Detected_Mark,Ink_Stroke_%,Suggested_Status,Verified_Status,Review_Status,Reason
+15,2026-08-13_S3,250851002016,Deepanshu Kumar,Uncertain (..),3.52,Absent,Absent,Pending Review,Non-'P' or faint mark detected (ink=3.5%) — defaulted to Absent; please verify

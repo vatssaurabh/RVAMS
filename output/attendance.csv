@@ -1,0 +1,85 @@
+﻿S_No,Roll_No,Student_Name,Father_Name,Date,Session,Date_Session,Status,Confidence,Review_Flag
+1,250851002001,Aashish Kumar,Mr. Rambeer Singh,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+1,250851002001,Aashish Kumar,Mr. Rambeer Singh,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+1,250851002001,Aashish Kumar,Mr. Rambeer Singh,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+2,250851002002,Abdul Kadir,Mr. Guljar,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+2,250851002002,Abdul Kadir,Mr. Guljar,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+2,250851002002,Abdul Kadir,Mr. Guljar,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+3,250851002003,Abhishek Kumar Th.,Mr. Manoj Thakur,2026-08-13,S1,2026-08-13_S1,Present,0.93,Verified
+3,250851002003,Abhishek Kumar Th.,Mr. Manoj Thakur,2026-08-13,S2,2026-08-13_S2,Present,0.94,Verified
+3,250851002003,Abhishek Kumar Th.,Mr. Manoj Thakur,2026-08-13,S3,2026-08-13_S3,Present,0.93,Verified
+4,250851002004,Abhishek Rana,Mr. Billu Rana,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+4,250851002004,Abhishek Rana,Mr. Billu Rana,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+4,250851002004,Abhishek Rana,Mr. Billu Rana,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+5,250851002006,Adeeb Ali,Mr. Mohd. Zahid,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+5,250851002006,Adeeb Ali,Mr. Mohd. Zahid,2026-08-13,S2,2026-08-13_S2,Present,0.94,Verified
+5,250851002006,Adeeb Ali,Mr. Mohd. Zahid,2026-08-13,S3,2026-08-13_S3,Present,0.87,Verified
+6,250851002007,Amit Singh,Mr. Balveer,2026-08-13,S1,2026-08-13_S1,Present,0.94,Verified
+6,250851002007,Amit Singh,Mr. Balveer,2026-08-13,S2,2026-08-13_S2,Present,0.95,Verified
+6,250851002007,Amit Singh,Mr. Balveer,2026-08-13,S3,2026-08-13_S3,Present,0.94,Verified
+7,250851002008,Anamika,Mr. Brahmpal,2026-08-13,S1,2026-08-13_S1,Present,0.92,Verified
+7,250851002008,Anamika,Mr. Brahmpal,2026-08-13,S2,2026-08-13_S2,Present,0.92,Verified
+7,250851002008,Anamika,Mr. Brahmpal,2026-08-13,S3,2026-08-13_S3,Present,0.92,Verified
+8,250851002009,Anas Ansari,Mr. Naim,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+8,250851002009,Anas Ansari,Mr. Naim,2026-08-13,S2,2026-08-13_S2,Present,0.91,Verified
+8,250851002009,Anas Ansari,Mr. Naim,2026-08-13,S3,2026-08-13_S3,Present,0.92,Verified
+9,250851002010,Anjali luhania,Mr. Yogendra Singh,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+9,250851002010,Anjali luhania,Mr. Yogendra Singh,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+9,250851002010,Anjali luhania,Mr. Yogendra Singh,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+10,250851002011,Anjali Sharma,Mr. Mukesh Sharma,2026-08-13,S1,2026-08-13_S1,Present,0.93,Verified
+10,250851002011,Anjali Sharma,Mr. Mukesh Sharma,2026-08-13,S2,2026-08-13_S2,Present,0.91,Verified
+10,250851002011,Anjali Sharma,Mr. Mukesh Sharma,2026-08-13,S3,2026-08-13_S3,Present,0.97,Verified
+11,250851002012,Ankur Kumar,Mr. Santram,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+11,250851002012,Ankur Kumar,Mr. Santram,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+11,250851002012,Ankur Kumar,Mr. Santram,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+12,250851002013,Anuj Kumar,Mr. Rishipal,2026-08-13,S1,2026-08-13_S1,Present,0.91,Verified
+12,250851002013,Anuj Kumar,Mr. Rishipal,2026-08-13,S2,2026-08-13_S2,Present,0.93,Verified
+12,250851002013,Anuj Kumar,Mr. Rishipal,2026-08-13,S3,2026-08-13_S3,Present,0.94,Verified
+13,250851002014,Aryan,Mr. Mahendra Singh,2026-08-13,S1,2026-08-13_S1,Present,0.9,Verified
+13,250851002014,Aryan,Mr. Mahendra Singh,2026-08-13,S2,2026-08-13_S2,Present,0.93,Verified
+13,250851002014,Aryan,Mr. Mahendra Singh,2026-08-13,S3,2026-08-13_S3,Present,0.95,Verified
+14,250851002015,Deepanshi,Mr. Satendra Singh,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+14,250851002015,Deepanshi,Mr. Satendra Singh,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+14,250851002015,Deepanshi,Mr. Satendra Singh,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+15,250851002016,Deepanshu Kumar,Mr. Anil Kumar,2026-08-13,S1,2026-08-13_S1,Present,0.92,Verified
+15,250851002016,Deepanshu Kumar,Mr. Anil Kumar,2026-08-13,S2,2026-08-13_S2,Present,0.91,Verified
+15,250851002016,Deepanshu Kumar,Mr. Anil Kumar,2026-08-13,S3,2026-08-13_S3,Absent,0.52,Review Required
+16,250851002017,Dev Kaushik,Mr. Tarun Kumar Sh.,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+16,250851002017,Dev Kaushik,Mr. Tarun Kumar Sh.,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+16,250851002017,Dev Kaushik,Mr. Tarun Kumar Sh.,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+17,250851002018,Divyam Jha,Mr. Raghvender Jha,2026-08-13,S1,2026-08-13_S1,Present,0.91,Verified
+17,250851002018,Divyam Jha,Mr. Raghvender Jha,2026-08-13,S2,2026-08-13_S2,Present,0.92,Verified
+17,250851002018,Divyam Jha,Mr. Raghvender Jha,2026-08-13,S3,2026-08-13_S3,Present,0.95,Verified
+18,250851002019,Deepika Sharma,Mr. Lalman,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+18,250851002019,Deepika Sharma,Mr. Lalman,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+18,250851002019,Deepika Sharma,Mr. Lalman,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+19,250851002021,Himani,Mr. Charan Singh,2026-08-13,S1,2026-08-13_S1,Present,0.92,Verified
+19,250851002021,Himani,Mr. Charan Singh,2026-08-13,S2,2026-08-13_S2,Present,0.93,Verified
+19,250851002021,Himani,Mr. Charan Singh,2026-08-13,S3,2026-08-13_S3,Present,0.93,Verified
+20,250851002022,Himanshu,Mr. Mahendra Singh,2026-08-13,S1,2026-08-13_S1,Present,0.92,Verified
+20,250851002022,Himanshu,Mr. Mahendra Singh,2026-08-13,S2,2026-08-13_S2,Present,0.94,Verified
+20,250851002022,Himanshu,Mr. Mahendra Singh,2026-08-13,S3,2026-08-13_S3,Present,0.93,Verified
+21,250851002023,Jatin Saini,Mr. Sanjay Saini,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+21,250851002023,Jatin Saini,Mr. Sanjay Saini,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+21,250851002023,Jatin Saini,Mr. Sanjay Saini,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+22,250851002024,Jiya Sharma,Mr. Vijay Kumar,2026-08-13,S1,2026-08-13_S1,Present,0.91,Verified
+22,250851002024,Jiya Sharma,Mr. Vijay Kumar,2026-08-13,S2,2026-08-13_S2,Present,0.92,Verified
+22,250851002024,Jiya Sharma,Mr. Vijay Kumar,2026-08-13,S3,2026-08-13_S3,Present,0.93,Verified
+23,250851002025,Kajal Senger,Mr. Rajesh Kumar,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+23,250851002025,Kajal Senger,Mr. Rajesh Kumar,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+23,250851002025,Kajal Senger,Mr. Rajesh Kumar,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+24,250851002026,Kalpana,Mr. Heera,2026-08-13,S1,2026-08-13_S1,Present,0.91,Verified
+24,250851002026,Kalpana,Mr. Heera,2026-08-13,S2,2026-08-13_S2,Present,0.95,Verified
+24,250851002026,Kalpana,Mr. Heera,2026-08-13,S3,2026-08-13_S3,Present,0.91,Verified
+25,250851002027,Kashish,Mr. Ravindra Bahti,2026-08-13,S1,2026-08-13_S1,Present,0.92,Verified
+25,250851002027,Kashish,Mr. Ravindra Bahti,2026-08-13,S2,2026-08-13_S2,Present,0.93,Verified
+25,250851002027,Kashish,Mr. Ravindra Bahti,2026-08-13,S3,2026-08-13_S3,Present,0.91,Verified
+26,250851002029,Madhav Singh,Mr. Pramod Singh,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+26,250851002029,Madhav Singh,Mr. Pramod Singh,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+26,250851002029,Madhav Singh,Mr. Pramod Singh,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+27,250851002030,Manish,Mr. Praveen Kumar,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+27,250851002030,Manish,Mr. Praveen Kumar,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+27,250851002030,Manish,Mr. Praveen Kumar,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
+28,250851002031,Manish Panday,Mr. Vinod Panday,2026-08-13,S1,2026-08-13_S1,Absent,0.97,Verified
+28,250851002031,Manish Panday,Mr. Vinod Panday,2026-08-13,S2,2026-08-13_S2,Absent,0.97,Verified
+28,250851002031,Manish Panday,Mr. Vinod Panday,2026-08-13,S3,2026-08-13_S3,Absent,0.97,Verified
